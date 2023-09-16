@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692292658499",
+    "project_id": "coincollect-57156",
+    "storage_bucket": "coincollect-57156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692292658499:android:921824a1947e2858307bf6",
+        "android_client_info": {
+          "package_name": "com.example.coincollect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_mFv9neHlMri_-5wDjRu9H16RSign2qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
